@@ -28,7 +28,7 @@ Todo o nosso curso será realizado no **Google Colab**, uma ferramenta gratuita 
 O conteúdo está organizado em módulos sequenciais.
 
 ### Módulo 1: Introdução ao Universo dos Dados
-*   **Notas da Aula:** [Clique aqui para ler a introdução conceitual ao mundo dos dados.](./modulo_1/notas_aula_1.md)
+*   **Notas da Aula:** https://github.com/Miriam1s/mini_curso_inobar/blob/main/modulo_1/notas_aula_1.md
 *   O que são dados e por que são o novo petróleo?
 *   Conhecendo nosso ambiente de trabalho: Google Colab.
 *   Introdução ao Pandas, a principal ferramenta para análise de dados em Python.
@@ -46,7 +46,7 @@ O conteúdo está organizado em módulos sequenciais.
 *   **Análise de Satisfação:** Cruzando dados de vendas com avaliações de clientes para entender a percepção de qualidade dos produtos.
 
 ### Módulo Bônus: Carreiras em Dados
-*   **O Guardião dos Dados:** [O que faz um Administrador de Banco de Dados (DBA)?](./bonus/dbas.md)
+*   **O Guardião dos Dados:** https://github.com/Miriam1s/mini_curso_inobar/blob/main/bonus/dbas.md
 
 ## 📄 Licença
 
