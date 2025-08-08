@@ -4,3 +4,6 @@ ID_Despesa,Data_Vencimento,Descricao,Tipo_Despesa,Valor
 3,2023-10-10,Água e Esgoto,Variável,320.00
 4,2023-10-15,Fornecedor de Farinha,Insumos,1200.00
 5,2023-10-20,Marketing e Divulgação,Fixa,500.00
+6,2023-10-25,Manutenção da Fritadeira,Variável,350.00
+7,2023-10-28,Internet e Telefone,Fixa,150.00
+8,2023-10-30,Material de Limpeza,Insumos,200.00

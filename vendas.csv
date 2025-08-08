@@ -14,3 +14,28 @@ ID_Venda,Data,ID_Produto,Quantidade,Forma_Pagamento
 13,2023-10-06,1,8,Dinheiro
 14,2023-10-06,3,6,Cartão de Débito
 15,2023-10-07,2,3,PIX
+16,2023-10-08,7,15,Cartão de Crédito
+17,2023-10-08,6,6,PIX
+18,2023-10-09,1,10,Dinheiro
+19,2023-10-10,3,7,Cartão de Débito
+20,2023-10-11,5,12,PIX
+21,2023-10-12,2,6,Dinheiro
+22,2023-10-13,4,9,Cartão de Crédito
+23,2023-10-14,1,18,PIX
+24,2023-10-15,7,20,Dinheiro
+25,2023-10-16,6,8,Cartão de Débito
+26,2023-10-17,3,5,PIX
+27,2023-10-18,5,14,Cartão de Crédito
+28,2023-10-19,2,7,Dinheiro
+29,2023-10-20,1,20,PIX
+30,2023-10-21,4,10,Cartão de Débito
+31,2023-10-22,7,18,PIX
+32,2023-10-23,6,9,Dinheiro
+33,2023-10-24,3,6,Cartão de Crédito
+34,2023-10-25,5,16,PIX
+35,2023-10-26,1,14,Dinheiro
+36,2023-10-27,2,8,Cartão de Débito
+37,2023-10-28,4,12,PIX
+38,2023-10-29,7,22,Cartão de Crédito
+39,2023-10-30,6,10,PIX
+40,2023-10-31,1,25,Dinheiro
