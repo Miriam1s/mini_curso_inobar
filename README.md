@@ -46,7 +46,7 @@ O conteúdo está organizado em módulos sequenciais.
 *   **Análise de Satisfação:** Cruzando dados de vendas com avaliações de clientes para entender a percepção de qualidade dos produtos.
 
 ### Módulo Bônus: Carreiras em Dados
-*   **O Guardião dos Dados:** [O que faz um Administrador de Banco de Dados (DBA)?](./bonus/dbas.md)
+*   **O Guardião dos Dados:** [O que faz um Administrador de Banco de Dados (DBA)?]([https://github.com/Miriam1s/mini_curso_inobar/blob/main/dbas.md])
 
 ## 📄 Licença
 
