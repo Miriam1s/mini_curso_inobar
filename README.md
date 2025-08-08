@@ -33,7 +33,7 @@ O conteúdo está organizado em módulos sequenciais.
 *   Introdução ao Pandas, a principal ferramenta para análise de dados em Python.
 
 ### Módulo 2: Mão na Massa - Manipulando Dados Reais
-*   **Exercício Prático:** [//]: # (Adicione o link do Colab aqui quando o notebook estiver pronto)
+*   **Exercício Prático:** [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Miriam1s/mini_curso_inobar/blob/main/modulo_2/exercicio_pratico_m2.ipynb)
 *   Carregando dados de planilhas (`.csv`, `.xlsx`) diretamente do GitHub.
 *   Explorando e entendendo um conjunto de dados: `.head()`, `.info()`, `.describe()`.
 *   Limpando e tratando dados ausentes e inconsistentes.
