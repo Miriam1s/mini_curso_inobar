@@ -1,0 +1,16 @@
+ID_Venda,Data,ID_Produto,Quantidade,Forma_Pagamento
+1,2023-10-01,1,2,Cartão de Débito
+2,2023-10-01,4,1,PIX
+3,2023-10-01,2,1,Cartão de Crédito
+4,2023-10-02,1,5,PIX
+5,2023-10-02,3,3,Dinheiro
+6,2023-10-02,4,4,Cartão de Débito
+7,2023-10-03,2,2,Cartão de Débito
+8,2023-10-03,1,3,PIX
+9,2023-10-04,3,2,Dinheiro
+10,2023-10-04,1,10,PIX
+11,2023-10-05,2,4,Cartão de Crédito
+12,2023-10-05,4,5,PIX
+13,2023-10-06,1,8,Dinheiro
+14,2023-10-06,3,6,Cartão de Débito
+15,2023-10-07,2,3,PIX
