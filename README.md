@@ -39,7 +39,7 @@ O conteúdo está organizado em módulos sequenciais.
 *   Limpando e tratando dados ausentes e inconsistentes.
 
 ### Módulo 3: Gerando Insights com Análise e Visualização
-*   **Exercício Prático:** [//]: # (Link do Colab para o Módulo 3 será adicionado aqui)
+*   **Exercício Prático:** [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Miriam1s/mini_curso_inobar/blob/main/modulo_3/exercicio_pratico_m3.ipynb)
 *   **Visualização de Dados:** Como transformar nossas tabelas e números em gráficos impactantes com `Matplotlib` e `Seaborn`.
 *   **Análise de Desempenho:** Criando dashboards para visualizar os produtos mais vendidos, os dias mais lucrativos e a performance geral.
 *   **Análise de Satisfação:** Cruzando dados de vendas com avaliações de clientes para entender a percepção de qualidade dos produtos.
