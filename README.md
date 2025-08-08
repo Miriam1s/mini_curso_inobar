@@ -45,6 +45,9 @@ O conteúdo está organizado em módulos sequenciais.
 *   **Análise de Desempenho:** Criando dashboards para visualizar os produtos mais vendidos, os dias mais lucrativos e a performance geral.
 *   **Análise de Satisfação:** Cruzando dados de vendas com avaliações de clientes para entender a percepção de qualidade dos produtos.
 
+### Módulo Bônus: Carreiras em Dados
+*   **O Guardião dos Dados:** [O que faz um Administrador de Banco de Dados (DBA)?](./bonus/dbas.md)
+
 ## 📄 Licença
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
