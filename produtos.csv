@@ -1,8 +1,8 @@
 ID_Produto,Nome_Produto,Custo_Producao_Unitario,Preco_Venda_Unitario
-1,Coxinha,2.50,7.50
-2,Pastel,2.80,8.00
-3,Suco de Laranja,2.00,6.50
-4,Refrigerante,1.80,5.00
+1,Coxinha de Frango,2.50,7.50
+2,Pastel de Carne,2.80,8.00
+3,Suco de Laranja Natural,2.00,6.50
+4,Refrigerante Lata,1.80,5.00
 5,Bolinha de Queijo,2.20,7.00
 6,Empada de Palmito,3.00,8.50
 7,Café Expresso,1.50,4.00

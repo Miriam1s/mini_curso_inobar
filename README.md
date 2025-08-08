@@ -39,9 +39,10 @@ O conteúdo está organizado em módulos sequenciais.
 *   Limpando e tratando dados ausentes e inconsistentes.
 
 ### Módulo 3: Gerando Insights com Análise e Visualização
-*   **Exercício Prático:** [//]: # (Adicione o link do Colab aqui quando o notebook estiver pronto)
-*   Filtrando, ordenando e agrupando informações para responder perguntas de negócio.
-*   Criando os primeiros gráficos (barras, linhas, pizza) para comunicar seus resultados.
+*   **Exercício Prático:** [//]: # (Link do Colab para o Módulo 3 será adicionado aqui)
+*   **Visualização de Dados:** Como transformar nossas tabelas e números em gráficos impactantes com `Matplotlib` e `Seaborn`.
+*   **Análise de Desempenho:** Criando dashboards para visualizar os produtos mais vendidos, os dias mais lucrativos e a performance geral.
+*   **Análise de Satisfação:** Cruzando dados de vendas com avaliações de clientes para entender a percepção de qualidade dos produtos.
 
 ## 📄 Licença
 
