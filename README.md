@@ -28,6 +28,7 @@ Todo o nosso curso será realizado no **Google Colab**, uma ferramenta gratuita 
 O conteúdo está organizado em módulos sequenciais.
 
 ### Módulo 1: Introdução ao Universo dos Dados
+*   **Notas da Aula:** [Clique aqui para ler a introdução conceitual ao mundo dos dados.](./modulo_1/notas_aula_1.md)
 *   O que são dados e por que são o novo petróleo?
 *   Conhecendo nosso ambiente de trabalho: Google Colab.
 *   Introdução ao Pandas, a principal ferramenta para análise de dados em Python.
