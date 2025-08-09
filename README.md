@@ -1,6 +1,6 @@
 # Minicurso: Análise de Dados para Gestão e Negócios
 
-**Bem-vindo(a) ao repositório oficial do minicurso de Análise de Dados, que será apresentado no evento Inobar!**
+**Bem-vindo(a) ao repositório oficial do minicurso de Análise de Dados, que será apresentado!"**
 
 Este espaço foi criado para centralizar todo o material didático, dados, códigos e informações relevantes para o nosso encontro.
 
