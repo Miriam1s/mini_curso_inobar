@@ -1,0 +1,9 @@
+Data,Produto,Preco,Quantidade,ID_Cliente
+2023-10-01,Coxinha,"7,50",2,101
+2023-10-01,Refrigerante,"5,00",1,101
+2023-10-01,Pastel,"6,00",1,102
+2023-10-02,Coxinha,"7,50",3,
+2023-10-02,Suco,"6,50",1,103
+2023-10-03,Pastel,"6,00",2,104
+2023-10-03,Refrigerante,"5,00",2,104
+2023-10-03,Coxinha,"7,50",1,
