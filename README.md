@@ -36,6 +36,31 @@ Todo o nosso curso será realizado no **Google Colab**, uma ferramenta gratuita 
 
 O conteúdo está organizado em módulos sequenciais.
 
+---
+
+## 🚦 Guia Rápido para Iniciantes
+
+1. **Nunca programou?**
+    - Siga o passo a passo dos notebooks, leia os comentários e tente modificar pequenos trechos para ver o que acontece.
+    - Use o script `testa_leitura_dados.py` para garantir que seu ambiente está funcionando. Basta rodar:
+      ```bash
+      python testa_leitura_dados.py
+      ```
+      Se aparecer as primeiras linhas da tabela e nenhum erro, está tudo certo!
+
+2. **Dicas para aprender mais rápido:**
+    - Sempre leia os comentários no código.
+    - Use `df.head()` para ver rapidamente os dados.
+    - Se errar, leia a mensagem de erro com calma: ela quase sempre diz o que está errado.
+    - Experimente mudar valores e rodar novamente!
+
+3. **Exercícios extras sugeridos:**
+    - Descubra qual cliente mais comprou na lanchonete.
+    - Crie um gráfico de pizza mostrando a participação de cada produto nas vendas totais.
+    - Tente importar outro arquivo `.csv` e analisar seus dados.
+
+---
+
 ### Módulo 1: Introdução ao Universo dos Dados
 *   **Notas da Aula:** https://github.com/Miriam1s/mini_curso_inobar/blob/main/notas_aula_1.md
 *   **Tópicos:** O que são dados, a diferença entre dado e informação, e introdução ao ambiente Colab e à biblioteca Pandas.
