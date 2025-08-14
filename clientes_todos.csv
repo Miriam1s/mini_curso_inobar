@@ -1,0 +1,11 @@
+ID_Cliente,Nome_Cliente,Data_Cadastro,Nome,Idade,Cidade,Profissao
+1,Ana Beatriz,2023-09-15,,,,
+2,Bruno Gomes,2023-09-20,,,,
+3,Carla Dias,2023-09-22,,,,
+4,Daniel Farias,2023-10-01,,,,
+5,Elisa Martins,2023-10-03,,,,
+1,,,João Silva,34,Curitiba,Administrador
+2,,,Ana Souza,28,São Paulo,Contadora
+3,,,Pedro Lima,45,Belo Horizonte,Gerente
+4,,,Marina Costa,22,Rio de Janeiro,Estudante
+5,,,Lucas Rocha,39,Porto Alegre,Empresário
