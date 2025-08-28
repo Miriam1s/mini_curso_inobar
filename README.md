@@ -66,6 +66,21 @@ O conteúdo está organizado em módulos sequenciais.
 *   **Tópicos:** O que são dados, a diferença entre dado e informação, e introdução ao ambiente Colab e à biblioteca Pandas.
 *   **Leitura Recomendada:** [*Storytelling com Dados*](https://www.amazon.com.br/Storytelling-com-Dados-visualiza%C3%A7%C3%A3o-profissionais/dp/8550804688/) por Cole Nussbaumer Knaflic. O início do livro é perfeito para entender a importância de pensar no "porquê" antes de começar a analisar.
 
+### Desafios Práticos e Visualização
+
+*   **Desafios Práticos:** Resolva problemas reais de análise, limpeza e visualização de dados no notebook [`desafios_praticos.ipynb`](./desafios_praticos.ipynb). Ideal para testar e fixar o aprendizado!
+*   **Exemplos de Visualização:** Veja como criar gráficos e dashboards no notebook [`exemplos_visualizacao.ipynb`](./exemplos_visualizacao.ipynb). Use como inspiração para seus próprios projetos.
+
+### Testes Automatizados
+
+*   **Testes de Dados:** Execute o script [`testes_automatizados.py`](./testes_automatizados.py) para garantir que os arquivos principais estão íntegros e prontos para análise. Basta rodar:
+
+```bash
+python testes_automatizados.py
+```
+
+Se aparecer "OK" para todos os testes, seus dados estão prontos!
+
 ### Módulo 2: Mão na Massa - Manipulando Dados Reais
 *   **Exercício Prático:** [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Miriam1s/mini_curso_inobar/blob/main/modulo_2/exercicio_pratico_m2.ipynb)
 *   **Tópicos:** Carregando dados de planilhas (`.csv`, `.xlsx`), explorando um DataFrame com `.head()`, `.info()`, `.describe()`, e técnicas de limpeza de dados.
