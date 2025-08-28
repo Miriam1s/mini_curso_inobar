@@ -117,3 +117,13 @@ Este minicurso é apenas o começo. Para se aprofundar, recomendamos os seguinte
 ## 📄 Licença
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+```python
+ax = sns.barplot(
+    x=faturamento_por_produto.index,
+    y=faturamento_por_produto.values,
+    hue=faturamento_por_produto.index,
+    palette='viridis',
+    legend=False
+)
+```
